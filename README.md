@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cantprogram01
 - 👀 I’m interested in ... learning new things....
 - 🌱 I’m currently learning ... devops!
-- 💞️ I’m looking to collaborate on ... nothing, i'm not there yet, never will be, i guess..
+- 💞️ I’m looking to collaborate on ... any devops stuff...
 - 📫 How to reach me ... i'm just here to learn..
 
 <!---
